@@ -5,3 +5,6 @@
 $ git init
 Initialized empty Git repository in /Hopp02/skills/Projects/recipe-repository/.git/
 ```
+- [ ] Turn on github pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
